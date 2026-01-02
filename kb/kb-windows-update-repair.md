@@ -1,4 +1,4 @@
-﻿# KB — Fix Windows Update failures (DISM/SFC + reset cache)
+﻿# KB: Fix Windows Update failures (DISM/SFC + reset cache)
 
 ## Summary
 Use DISM and SFC to repair Windows image/system files. If failures persist, reset Windows Update cache folders.
