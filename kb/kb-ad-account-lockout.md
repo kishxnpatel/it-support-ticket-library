@@ -1,4 +1,4 @@
-﻿# KB — AD Account Lockout (identify source + fix)
+﻿# KB: AD Account Lockout (identify source + fix)
 
 ## Summary
 Repeated AD lockouts are commonly caused by a device/service using outdated cached credentials.
